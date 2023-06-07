@@ -10,4 +10,8 @@
     <PackageReference Include="microsoft.entityframeworkcore.inmemory" Version="7.0.5" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="BusinessRules\" />
+  </ItemGroup>
+
 </Project>
