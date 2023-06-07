@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "BankSystem_CodingTest/1.0.0": {
+        "runtime": {
+          "BankSystem_CodingTest.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BankSystem_CodingTest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
